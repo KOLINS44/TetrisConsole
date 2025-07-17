@@ -1,0 +1,14 @@
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.AssemblyInfoInputs.cache
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.AssemblyInfo.cs
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.csproj.CoreCompileInputs.cache
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\bin\Debug\net8.0\TetrisConsole.exe
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\bin\Debug\net8.0\TetrisConsole.deps.json
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\bin\Debug\net8.0\TetrisConsole.runtimeconfig.json
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\bin\Debug\net8.0\TetrisConsole.dll
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\bin\Debug\net8.0\TetrisConsole.pdb
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.dll
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\refint\TetrisConsole.dll
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.pdb
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\TetrisConsole.genruntimeconfig.cache
+C:\Users\andre\Projects\TetrisConsole\TetrisConsole\obj\Debug\net8.0\ref\TetrisConsole.dll
